@@ -74,7 +74,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishv2005&bg_color=0d1117&color=9ca3af&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Ashish's Contribution Graph" />
 </p>
----
 
 ## 📫 Contact
 - 📧 Email: [ashishv1303@gmail.com](mailto:ashishv1303@gmail.com)  
