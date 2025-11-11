@@ -1,4 +1,3 @@
-<img width="3000" height="3000" alt="character" src="https://github.com/user-attachments/assets/b36ced45-9d8f-4d20-8986-277f8d048f05" /><!-- banner -->
 <p align="center">
   <img src="./banner.png" alt="banner" width="100%" />
 </p>
