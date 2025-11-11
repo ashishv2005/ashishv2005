@@ -58,18 +58,22 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashishv2005&show_icons=true&theme=tokyonight&title_color=9ca3af&text_color=cbd5e1&icon_color=9ca3af&bg_color=0d1117" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishv2005&layout=compact&theme=tokyonight&title_color=9ca3af&text_color=cbd5e1&bg_color=0d1117" alt="Top Languages" height="180"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashishv2005&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Ashish's GitHub stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishv2005&theme=github-dark-blue&hide_border=true" alt="Ashish's GitHub streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashishv2005&theme=tokyonight&background=0d1117&ring=9ca3af&fire=9ca3af&currStreakLabel=9ca3af" alt="GitHub Streak" height="180"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishv2005&layout=compact&theme=github_dark&hide_border=true" alt="Ashish's Top Languages" />
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashishv2005&theme=github_dark" alt="Repos per language" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashishv2005&theme=onedark&margin-w=15&no-frame=true" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ashishv2005&theme=algolia&no-frame=true&margin-w=10" alt="GitHub Trophies" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishv2005&bg_color=0d1117&color=9ca3af&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Ashish's Contribution Graph" />
+</p>
 ---
 
 ## 📫 Contact
