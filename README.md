@@ -3,8 +3,8 @@
   <img src="./banner.png" alt="banner" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Ashish Vaghela</h1>
-<p align="center">🚀 Enthusiastic Backend Developer | Node.js • Express • SQL • MongoDB</p>
+<!-- <h1 align="center">Hi 👋, I'm Ashish Vaghela</h1>
+<p align="center">🚀 Enthusiastic Backend Developer | Node.js • Express • SQL • MongoDB</p> -->
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ashish-vaghela-619188305" target="_blank">
