@@ -23,9 +23,6 @@
     <a href="mailto:ashishv1303@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-    <a href="https://twitter.com/" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-    </a>
     <a href="https://instagram.com/" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
@@ -35,7 +32,7 @@
 
   <ul>
     <li>💻 I’m a passionate <b>Backend Developer</b> who loves turning ideas into scalable web applications.</li>
-    <li>🚀 Skilled in <b>Node.js, Express.js, TypeScript, PostgreSQL, MySQL, and MongoDB.</b></li>
+    <li>🚀 Skilled in <b>Node.js, Express.js, JavaScript, TypeScript, PostgreSQL, MySQL, and MongoDB.</b></li>
     <li>🧠 Currently exploring <b>Next.js, Docker, and cloud deployment</b> to strengthen my backend skills.</li>
     <li>🎯 I believe in writing clean, secure, and efficient code that makes an impact.</li>
     <li>⚡ Fun fact: I enjoy debugging more than coding — because solving problems feels amazing! 😄</li>
@@ -53,15 +50,20 @@
 
 ## 🛠️ Tech Stack
 **Languages & Runtime:** JavaScript, TypeScript, Node.js  
+**Frontend:** HTML, CSS  
 **Databases:** PostgreSQL, MySQL, MongoDB  
 **Tools:** Git, Docker, VSCode, Postman
 
 <p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </p>
 
 ---
@@ -79,28 +81,9 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashishv2005&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Ashish's GitHub stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashishv2005&theme=github-dark-blue&hide_border=true" alt="Ashish's GitHub streak" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashishv2005&layout=compact&theme=github_dark&hide_border=true" alt="Ashish's Top Languages" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashishv2005&theme=github_dark" alt="Repos per language" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashishv2005&theme=algolia&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashishv2005&bg_color=0d1117&color=9ca3af&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Ashish's Contribution Graph" />
-</p>
-
 ## 📫 Contact
 - 📧 Email: [ashishv1303@gmail.com](mailto:ashishv1303@gmail.com)  
+- 📞 Phone: +91 6351898540
 - 🔗 LinkedIn: [linkedin.com/in/ashish-vaghela-619188305](https://www.linkedin.com/in/ashish-vaghela-619188305)  
 - 💻 GitHub: [github.com/ashishv2005](https://github.com/ashishv2005)
 
