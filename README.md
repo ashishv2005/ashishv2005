@@ -23,7 +23,7 @@
     <a href="mailto:ashishv1303@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-    <a href="https://instagram.com/" target="_blank">
+    <a href="[https://instagram.com/](https://www.instagram.com/ashishvaghela13/)" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
     </a>
   </p>
@@ -33,7 +33,7 @@
   <ul>
     <li>💻 I’m a passionate <b>Backend Developer</b> who loves turning ideas into scalable web applications.</li>
     <li>🚀 Skilled in <b>Node.js, Express.js, JavaScript, TypeScript, PostgreSQL, MySQL, and MongoDB.</b></li>
-    <li>🧠 Currently exploring <b>Next.js, Docker, and cloud deployment</b> to strengthen my backend skills.</li>
+    <li>🧠 Currently exploring <b>Nest.js, Docker, and cloud deployment</b> to strengthen my backend skills.</li>
     <li>🎯 I believe in writing clean, secure, and efficient code that makes an impact.</li>
     <li>⚡ Fun fact: I enjoy debugging more than coding — because solving problems feels amazing! 😄</li>
   </ul>
